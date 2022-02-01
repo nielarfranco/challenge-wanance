@@ -1,8 +1,8 @@
-###Challenge Wanance Frontend React 
+### Challenge Wanance Frontend React 
 
-##a fines practicos dejo el host de la api en .env.local 
+## a fines practicos dejo el host de la api en .env.local 
 
-_Para ejecutarlo en local 
+Para ejecutarlo en local 
 
 1. instalar librerias
    ```sh
@@ -10,7 +10,7 @@ _Para ejecutarlo en local
    ```
 
 2. Ejecutar servidor
-  ```sh
-  npm start
-  ```
+   ```sh
+   npm start
+   ```
  
