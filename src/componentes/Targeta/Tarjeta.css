@@ -1,0 +1,31 @@
+.padre{
+    display: flex;
+    width: 600px;
+    height: 300px;
+    margin: 50px;
+    box-shadow: 0px 2px 6px 3px #00000040;
+    border-radius: 10px;
+
+}
+
+.izquierdo{
+    display: inline;
+  
+
+}
+.perfTitul{
+    display: flex;
+}
+.perfil{
+    padding-top: 10px;
+    padding-left: 10px;
+
+}
+
+.titulo{
+    padding-left: 20px;
+}
+.derecho{
+    padding-left: 150px;
+    padding-top: 50px;
+}
